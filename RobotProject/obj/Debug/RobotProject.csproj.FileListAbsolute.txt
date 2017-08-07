@@ -1,0 +1,6 @@
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\RobotProject\RobotProject\bin\Debug\RobotProject.exe.config
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\RobotProject\RobotProject\bin\Debug\RobotProject.exe
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\RobotProject\RobotProject\bin\Debug\RobotProject.pdb
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\RobotProject\RobotProject\obj\Debug\RobotProject.csprojResolveAssemblyReference.cache
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\RobotProject\RobotProject\obj\Debug\RobotProject.exe
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\RobotProject\RobotProject\obj\Debug\RobotProject.pdb
